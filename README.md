@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 Yusuf here!
+
+## 💻 Things I code with
+
+### 👨‍💻 Languages
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-plastic&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-plastic&logo=javascript&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-plastic&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!--
 **Yusuf-4hmed/Yusuf-4hmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
